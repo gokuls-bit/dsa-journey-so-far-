@@ -14,7 +14,7 @@ Radix Sort
 
 Sliding Window Maximum (Deque / Heap)
 
-🔥 Greedy Algorithms (DAA & Competitive)
+🔥Greedy Algorithms (DAA & Competitive)
 Activity Selection Problem
 
 Fractional Knapsack
