@@ -6,7 +6,7 @@ Welcome to The Ultimate DSA Journey, a powerful self-paced learning path to conq
 
 "When you know the path, walk it with courage. When you know your goal, chase it with determination."
 
-Whether you are preparing for coding interviews, competitive programming, or building your core computer science skills, this journey will transform you.
+Whether you are preparing for coding interviews, competitive programming, or building  your core computer science skills, this journey will transform you.
 
 🚀 Why DSA?
 Problem Solving Power: It teaches you how to think efficiently.
